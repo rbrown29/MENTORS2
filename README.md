@@ -13,6 +13,7 @@
 7. REACT
 8. WEBPACK
 9. NODE.JS
+10. BABEL
 
 New Files to this project
 
