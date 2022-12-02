@@ -4,15 +4,15 @@
 
 ### Tecnologies Used
 
-# HTML
-# CSS
-# JAVASCRIPT
-# PHP
-# MYSQL
-# JSX
-# REACT
-# WEBPACK
-# NODE.JS
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. PHP
+5. MYSQL
+6. JSX
+7. REACT
+8. WEBPACK
+9. NODE.JS
 
 New Files to this project
 
